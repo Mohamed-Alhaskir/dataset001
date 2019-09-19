@@ -1,0 +1,13 @@
+{
+    "BIDSVersion": "1.0.0",
+    "Authors": ["Mohamed Alhaskir", "Lyuba Zehl"],
+    "License": "CC BY 4.0",
+    "Acknowledgements": "We thank all that helped to collect these data.",
+    "HowToAcknowledge": "Please cite this dataset: Alhaskir and Zehl(2019)",
+    "Funding" : ["This project was funded by xxx Grant 123456", "This project was funded by yyy Grant 789"],
+    "Name": "resting state BIDS example data",
+    "ReferencesAndLinks":[
+        "https://github.com/bids-standard/bids-examples/blob/master/ds001", "https://doi.org/10.1038/sdata.2016.44"
+    ],
+    "DatasetDOI" : "Requested"
+}
